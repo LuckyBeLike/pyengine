@@ -8,9 +8,8 @@ setup(
     author_email='thebeezzzzzz@gmail.com',
     url='https://github.com/LuckyBeLike/pyengine',
     packages=find_packages(),
-    install_requires=[
-        'pygame',
-    ],
+    py_modules=['pyengine'],
+    install_requires=['pygame',],
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
