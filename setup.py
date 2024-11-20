@@ -5,7 +5,7 @@ setup(
     version='1.0.0',
     description='A Python library for game development',
     author='LuckyBeLike',
-    author_email=thebeezzzzzz@gmail.com',
+    author_email='thebeezzzzzz@gmail.com',
     url='https://github.com/LuckyBeLike/pyengine',
     packages=find_packages(),
     install_requires=[
