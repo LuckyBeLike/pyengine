@@ -18,7 +18,7 @@
 Since PyEngine is not yet available on PyPI, you can install it directly from the GitHub repository:
 
 ```bash
-pip install git+https://github.com/yourusername/pyengine.git
+pip install git+https://github.com/LuckyBeLike/pyengine.git@main#egg=pyengine
 ```
 
 
